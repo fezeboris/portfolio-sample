@@ -29,107 +29,13 @@
           "
         >
           <div class="container">
-            <img src="../assets/images/p3.png" class="profile-img" alt="..." />
+            <img src="../assets/images/profilePi1.png" class="profile-img" alt="..." />
           </div>
         </div>
       </div>
     </div>
   </section>
-  <section>
-    <div class="container-lg">
-      <p class="fs-2 text-center fw-bold about pt-4">ABOUT ME</p>
-
-      <div class="row pt-3 justify-content-center">
-        <div class="col-12 container body col-md-5 col-lg-6 pt-4">
-          <img
-            src="../assets/images/profilem-removebg-preview.jpg"
-            class="img-fluid"
-            alt="..."
-          />
-        </div>
-        <div class="col-12 col-md-5 col-lg-6 pt-4">
-          <div class="lh-1 d-none d-md-block">
-            <p class="fs-3 fw-bold">UI/UX Designer & Web Developer</p>
-          </div>
-          <div class="container lh-1 text-center d-block d-sm-none">
-            <p class="fs-3 fw-bold">UI/UX Designer & Web Developer</p>
-          </div>
-          <p class="fs-5 d-none d-md-block">
-            I am a Frontend developer mostly working with HTML, CSS, JavaScript
-            and Vue Js Framework for almost two years. I have learn, done
-            internship and actually working for Vinsigt technologies....
-          </p>
-          <p class="fs-5 text-center d-block d-sm-none">
-            I am a Frontend developer mostly working with HTML, CSS, JavaScript
-            and Vue Js Framework for almost two years. Currently employed a
-            Vinsigt technologies as Frontend web developer....
-          </p>
-          <div class="row">
-            <div class="col-12 col-md-6 col-lg-6">
-              <p class="fs-6">
-                <span class="fw-bold">Name:</span> TCHOUANFE FEZE BORIS
-              </p>
-              <p class="fs-6">
-                <span class="fw-bold">Degree:</span> Autodidact
-              </p>
-              <p class="fs-6">
-                <span class="fw-bold">Phone:</span> +237 690 166 974
-              </p>
-              <p class="fs-6">
-                <span class="fw-bold">Adress:</span> Yaounde Cameroon
-              </p>
-              <div class="row">
-                <div class="col-4 d-none d-md-block">
-                  <div class="btn btn-sm btn-primary contact-btn">
-                    <a href="#contact">Hire me</a>
-                  </div>
-                </div>
-                <div class="col-5 d-none d-md-block">
-                  <div class="btn btn-sm btn-outline-primary contact-btn2">
-                    <a
-                      href="https://github.com/fezeboris"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      >learn more</a
-                    >
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-12 col-md-6 col-lg-6">
-              <p class="fs-6">
-                <span class="fw-bold">Birthday:</span> 19 November 1997
-              </p>
-              <!-- <p class="fs-6"><span class="fw-bold">Degree:</span> ...</p> -->
-              <p class="fs-6">
-                <span class="fw-bold">Experience:</span> One years
-              </p>
-              <p class="fs-6">
-                <span class="fw-bold">Email:</span> borisfeze9@gmail.com
-              </p>
-              <div class="row">
-                <div class="col-4 d-block d-sm-none">
-                  <div class="btn btn-sm btn-primary contact-btn">
-                    <a href="#contact">Hire me</a>
-                  </div>
-                </div>
-                <div class="col-5 d-block d-sm-none">
-                  <div class="btn btn-sm btn-outline-primary contact-btn2">
-                    <a
-                      href="https://github.com/fezeboris"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      >learn more</a
-                    >
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+  
   <section>
     <div class="container-lg my-3">
       <p class="fs-2 text-center fw-bold about pt-4">My Skills</p>
@@ -139,7 +45,7 @@
             <div
               class="progress-bar bg-success"
               role="progressbar"
-              style="width: 80%"
+              style="width: 80%;"
               aria-valuenow="25"
               aria-valuemin="0"
               aria-valuemax="100"
@@ -153,7 +59,7 @@
             <div
               class="progress-bar bg-warning"
               role="progressbar"
-              style="width: 70%"
+              style="width: 75%"
               aria-valuenow="25"
               aria-valuemin="0"
               aria-valuemax="100"
@@ -167,7 +73,7 @@
             <div
               class="progress-bar bg-info"
               role="progressbar"
-              style="width: 65%"
+              style="width: 60%"
               aria-valuenow="25"
               aria-valuemin="0"
               aria-valuemax="100"
@@ -183,13 +89,13 @@
             <div
               class="progress-bar bg-info"
               role="progressbar"
-              style="width: 50%"
+              style="width: 40%"
               aria-valuenow="25"
               aria-valuemin="0"
               aria-valuemax="100"
             >
               <span class="fw-bold"
-                >Flutter &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;50%</span
+                >Flutter &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;40%</span
               >
             </div>
           </div>
@@ -197,13 +103,13 @@
             <div
               class="progress-bar bg-danger"
               role="progressbar"
-              style="width: 60%"
+              style="width: 50%"
               aria-valuenow="25"
               aria-valuemin="0"
               aria-valuemax="100"
             >
               <span class="fw-bold"
-                >WordPress &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;60%</span
+                >WordPress &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;50%</span
               >
             </div>
           </div>
@@ -211,13 +117,13 @@
             <div
               class="progress-bar bg-primary"
               role="progressbar"
-              style="width: 50%"
+              style="width: 30%"
               aria-valuenow="25"
               aria-valuemin="0"
               aria-valuemax="100"
             >
               <span class="fw-bold"
-                >Design&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;50%</span
+                >React js&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;30%</span
               >
             </div>
           </div>
@@ -322,123 +228,20 @@
           <img src="../assets/images/wp2.jpg" class="img-fluid" alt="..." />
         </div>
         <div class="col-12 col-md-4 col-lg-4 mb-2">
-          <img src="../assets/images/wdd.jpg" class="img-fluid" alt="..." />
+          <img src="../assets/images/reactjs.jpg" class="img-fluid" alt="..." />
         </div>
       </div>
     </div>
   </section>
-  <section>
-    <div class="container-lg">
-      <form action="https://formspree.io/f/xpzbyqqd" method="POST">
-        <p class="fs-2 text-center fw-bold about pt-4" id="contact">
-          CONTACT ME
-        </p>
-        <div class="row">
-          <div class="col-12 col-md-6 col-lg-6 my-2">
-            <input
-              type="text"
-              required
-              class="form-control"
-              placeholder="Your Name"
-              name="Name"
-              v-model="name"
-              aria-label="Your name"
-            />
-            <input
-              type="text"
-              required
-              class="form-control my-2"
-              placeholder="Subject"
-              aria-label="Subject"
-              v-model="subject"
-              name="Subject"
-            />
-            <div class="form-floating mt-2">
-              <textarea
-                class="form-control"
-                placeholder="Leave a comment here"
-                id="floatingTextarea2"
-                style="height: 100px"
-                name="Message"
-                v-model="message"
-              ></textarea>
-              <label for="floatingTextarea2">Message</label>
-            </div>
-          </div>
-          <div class="col-12 col-md-6 col-lg-6 my-2">
-            <input
-              type="email "
-              v-model="email"
-              required
-              class="form-control"
-              placeholder="Your Email"
-              aria-label="Your Email"
-              name="Email"
-            />
-          </div>
-        </div>
-        <div class="container text-center mt-4">
-          <button class="btn btn-outline-primary btn" type="submit">
-            Send Message
-          </button>
-        </div>
-      </form>
-    </div>
-  </section>
-  <section class="footer p-5 mt-5">
-    <div class="container-lg text-center">
-      <div class="row">
-        <div class="col">
-          <a href="https://wa.link/m7hbt2" target="_blank" class="p-2">
-            <!-- <box-icon type="logo" name="whatsapp"></box-icon
-          > -->
-            <i class="bx bxl-whatsapp bx-border-circle bx-sm"></i>
-          </a>
 
-          <a
-            target="_blank"
-            href="https://twitter.com/BTchouanfe?t=GNB9DSwDRdnnf0WVQD1GQw&s=08"
-            class="p-2"
-          >
-            <!-- <box-icon name="twitter" type="logo"></box-icon
-          > -->
-            <i class="bx bxl-twitter bx-border-circle bx-sm"></i
-          ></a>
-          <a
-            target="_blank"
-            href="https://www.youtube.com/channel/UCb7GIDR1w7VgFAKW5t9Owaw"
-            class="p-2"
-          >
-            <!-- <box-icon name="twitter" type="logo"></box-icon
-          > -->
-            <i class="bx bxl-youtube bx-border-circle bx-sm"></i
-          ></a>
-
-          <a target="_blank" href="https://github.com/fezeboris" class="p-2">
-            <!-- <box-icon class="box-icon" type="logo" name="facebook"></box-icon> -->
-            <i class="bx bxl-github bx-border-circle bx-sm"></i>
-          </a>
-          <!-- <i class="bx bxl-facebook-square bx-border-circle"></i> -->
-        </div>
-      </div>
-      <div class="container-lg text-center">
-        <p>
-          <small class="mb-5"
-            >Copyright@{{ year }} Tchouanfe. All Rights Reserved</small
-          >
-        </p>
-
-        <p><small>built by Boris Tchouanfe</small></p>
-      </div>
-    </div>
-  </section>
+ 
 </template>
 
 <script>
 export default {
   data() {
     return {
-      year: "",
+      
 
       name: "",
       email: "",
@@ -447,21 +250,15 @@ export default {
     };
   },
   methods: {
-    onsubmit() {
-      (this.name = ""),
-        (this.email = ""),
-        (this.message = ""),
-        (this.subject = "");
-    },
+   
   },
   mounted() {
     const textElement = document.querySelector(".text--dynamic");
     const wordsArray = [
       "Web developer",
-      "graphic designer",
-      "Web designer",
+      "Graphic designer",
       "Flutter developer",
-      "Data scientist",
+      "React developer",
     ];
     let arrayLength = wordsArray.length;
 
@@ -512,14 +309,12 @@ export default {
 
     window.addEventListener("load", typeWriting);
 
-    let date = new Date();
-    this.year = date.getFullYear();
-    console.log(this.year);
+   
   },
 };
 </script>
 
-<style scoped>
+<style >
 html {
   scroll-behavior: smooth;
 }
@@ -620,8 +415,8 @@ a i {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent; */
   border-right: 2px solid;
-  height: 100%;
-  animation: blink 200ms ease infinite;
+  height: 50%;
+  animation: blink 300ms ease infinite;
 }
 
 @keyframes blink {
